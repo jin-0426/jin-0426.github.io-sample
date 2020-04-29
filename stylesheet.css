@@ -45,6 +45,7 @@ header a{
 
 /*写真*/
 .pic{
+  max-height:600px;
   width: 100%;
   text-align: center;
 }
