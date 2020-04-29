@@ -9,7 +9,7 @@
   .bar{
     display: block;
   }
-  .bar:checked .subMenu{
+  .b:checked .subMenu{
     display: inline-block;
     color: black;
   }
