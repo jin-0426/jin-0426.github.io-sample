@@ -1,0 +1,28 @@
+@media all and (max-width:755px){
+  .top{
+    display: none;
+  }
+  .b{
+    display: block;
+    padding-top: 15px;
+  }
+  .bar{
+    display: block;
+  }
+  .bar:hover .subMenu{
+    display: inline-block;
+    color: black;
+  }
+  .contents{
+    display: none;
+  }
+  .con{
+    display: block;
+  }
+  .date{
+    width: 100%;
+  }
+  .bar ul:hover{
+    display: inline-block;
+  }
+}
